@@ -1,0 +1,36 @@
+U.S. Presidents
+By: patriotsfan (patriotsfan98@gmail.com)
+
+This program contains all presidents and info on each of them. It is great for History class!
+
+CONTROLS
+[ENTER]- Displays president's info. Press [ENTER] again to return back to the main menu.
+[ARROWS]- Moves cursor
+[CLEAR]- Exits the program
+ENJOY!!!
+
+FUTURE UPDATES
+1. Whenever a president dies or when a new president/vice-president gets elected.
+2. An improvement is found.
+
+VERSIONS:
+1.2- Removed 126 bytes from optimization by removing unnecessary quotes. Added Gerald Ford's death year.
+1.1- Added newly elected president Barack Obama
+1.0- Original version
+
+OTHER PROGRAMS TO DOWNLOAD
+QUARTERBACK RATING (a must-have for football fans!)
+BOGGLE- based on the popular word game.
+
+THANKS TO
+Goose Commons for helping me with the multi-page menus.
+My school's U.S. History textbook.
+
+CONTACT INFO
+
+If you have any ideas, questions, problems, or improvements to this program, e-mail me at patriotsfan98@gmail.com and I will try my best to answer as quickly as possible. 
+
+
+
+
+

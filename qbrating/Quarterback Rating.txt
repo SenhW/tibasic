@@ -1,0 +1,37 @@
+Quarterback Rating
+By: patriotsfan (patriotsfan98@gmail.com)
+
+For all who are curious about the rating system, here it is:
+
+Attempts-A
+Completions-C
+Yards-Y
+Touchdown passes-T
+Interceptions-I
+
+NFL and CFL
+
+1. (C/A-0.3)/0.2
+2. (Y/A-3)/4
+3. T/A/0.05
+4. (0.095-(I/A))/0.04
+
+Add all four steps, multiply by 100 and divide by 6. The final number is the quarterback rating.
+
+NOTE: The sum of each step cannot be less than zero or greater than 2.375.
+
+NCAA
+
+1. (8.4Y+330T-200I+100C)/A=quarterback rating
+
+AFL
+
+1. (((C/A)100)-30)/20
+2. ((T/A)100)/(20/3
+3. (9.5-((I/A)100))/4
+4. ((Y/A)-3)/4
+
+Add all four steps and divide by 0.06. The final number is the quarterback rating.
+
+NOTE: The sum of each step cannot be less than zero or greater than 2.375.
+  

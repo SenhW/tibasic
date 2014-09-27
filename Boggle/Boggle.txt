@@ -1,0 +1,52 @@
+Boggle
+Version 1.1
+By: patriotsfan (patriotsfan98@gmail.com)
+
+HOW TO PLAY
+
+	This game is based on the fun word game Boggle. It is probably the best Boggle game out there for the TI-83+. It is not compatible for the TI-84+ since the timer runs too fast.   In order for the program to run on a TI-84+, change the For(Y,1,16 to make the timer run better. If you've never played Boggle, here are the basic rules:
+
+	1. Words can be formed horizontally, vertically, or diagonally to the left, right or up-and-down.
+
+	2. Any words in the English language are acceptable as long as they are not proper nouns. Words within words are also valid.
+
+	3. SCORING
+
+		NO. OF LETTERS  3  4  5  6  7  8 or more
+
+		POINTS                 1  1  2  3  5  11
+
+	4. REMEMBER THAT Q IS Qu!
+
+VERSIONS
+
+	Version 1.1: 1328 bytes Knocked off almost half of the original program size! Improved speed and now you can press CLEAR to go back to the main menu during gameplay. Also, I fixed a minor bug that would let you press any key instead of just 2nd to begin.
+
+	Version 1.0: 2277 bytes First and hopefully last release
+
+CONTACT INFO
+
+	If you have any ideas, questions, problems, or improvements to this program, e-mail me at patriotsfan98@gmail.com and I will try my best to answer as quickly as possible. 
+
+
+
+
+
+
+	
+
+	
+
+
+
+	
+
+
+	
+
+	
+
+	
+
+
+
